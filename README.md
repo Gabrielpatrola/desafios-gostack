@@ -6,7 +6,7 @@
 
 # 🎉 Lista de desafios
 
-- [x] Desafio 01
-- [ ] Desafio 02
+- [x] Desafio 01 - Conceitos de NodeJs
+- [ ] Desafio 02 - Iniciando Aplicação
 - [ ] Desafio 03
 - [ ] Desafio 04
