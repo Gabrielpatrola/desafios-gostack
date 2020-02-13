@@ -1,8 +1,6 @@
-<p style="align:center">
-
-![Go Stack - RocketSeat](https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/bootcamp-header.png)
-
-</p>
+<h1 align="center">
+    <img alt="GoStack" src="https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/bootcamp-header.png" width="200px" />
+</h1>
 
 # Desafios do GoStack 10
 
